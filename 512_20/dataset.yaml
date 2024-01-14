@@ -1,4 +1,4 @@
-path: ../thesis-dataset/512_20/
+path: ../512_20/
 train: images/train/
 val: images/val/
 

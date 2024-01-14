@@ -1,4 +1,4 @@
-path: ./320_30/
+path: ../320_30/
 train: images/train/
 val: images/val/
 
