@@ -1,0 +1,7 @@
+path: ../640_20/
+train: images/train/
+val: images/val/
+
+nc: 1
+
+names: ["human"]
